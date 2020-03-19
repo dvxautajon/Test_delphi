@@ -21,6 +21,14 @@ object Form2: TForm2
     Height = 13
     Caption = 'Label1'
   end
+  object Edit1: TEdit
+    Left = 176
+    Top = 168
+    Width = 121
+    Height = 21
+    TabOrder = 0
+    Text = 'Edit1'
+  end
   object MainMenu1: TMainMenu
     Left = 456
     Top = 104

@@ -12,6 +12,7 @@ type
     Label1: TLabel;
     MainMenu1: TMainMenu;
     ActionList1: TActionList;
+    Edit1: TEdit;
   private
     { Déclarations privées }
   public
